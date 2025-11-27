@@ -1,0 +1,168 @@
+Branch 7 — Early Warning Disaster Alert Engine
+
+AetherVision Omega – Real-Time Risk Prediction Module
+
+
+---
+
+Overview
+
+The Early Warning Disaster Alert Engine is a real-time prediction module designed to forecast urgent environmental and disaster-related hazards for the next 48 hours.
+It analyzes rapidly changing atmospheric, climatic, and seismic conditions and generates automated alert levels for every major metro city.
+
+This engine enables a Smart City to respond early to life-threatening hazards.
+
+
+---
+
+Objectives
+
+The system predicts short-term hazards using:
+
+Air quality levels
+
+Heat stress
+
+Rainfall intensity
+
+Wind speed
+
+Seismic activity
+
+
+It produces three key outputs:
+
+1. Real-time hazard dataset (48 hours)
+
+
+2. AI-based alert classification
+
+
+3. Human-readable alert report
+
+
+
+
+---
+
+Features
+
+1. Real-Time Environmental Data Simulation
+
+Generates 48-hour synthetic high-frequency data for:
+
+AQI
+
+Heat index
+
+Rainfall (mm/h)
+
+Wind speed (km/h)
+
+Seismic activity (Richter scale)
+
+
+2. Hazard Scoring Algorithm
+
+Each environmental factor is weighted to compute a final hazard score:
+
+Hazard Score =
+(AQI × 0.30) +
+(Heat Index × 0.20) +
+(Rainfall × 0.20) +
+(Wind Speed × 0.10) +
+(Seismic Activity × 0.20)
+
+3. Alert Level Classification
+
+Based on the hazard score:
+
+RED ALERT  → Extreme danger
+
+ORANGE ALERT → High risk
+
+YELLOW ALERT → Moderate risk
+
+NORMAL → Safe
+
+
+4. 48-Hour Forecast Window
+
+The engine predicts hazards for each hour across 48 hours for all tracked cities.
+
+
+---
+
+Output Files
+
+File	Description
+
+realtime_hazard_data.csv	Full 48-hour dataset with environmental readings
+disaster_alerts_48hrs.csv	Dataset containing hazard score and alert levels
+alert_report.txt	Summary of all non-normal alerts for quick review
+EARLY_WARNING_ALERT_ENGINE.ipynb	Notebook containing the full code
+
+
+
+---
+
+How It Works
+
+Step 1
+
+Generate real-time synthetic hazard data for 48 hours.
+
+Step 2
+
+Compute hazard scores using the weighted model.
+
+Step 3
+
+Classify alert level for every hour and city.
+
+Step 4
+
+Export data and alerts into separate files.
+
+Step 5
+
+Generate a clean text report summarizing critical alerts.
+
+
+---
+
+Tech Stack
+
+Python
+
+Pandas
+
+NumPy
+
+Custom Hazard Scoring Model
+
+
+
+---
+
+Purpose in Hackathon
+
+This module demonstrates:
+
+Real-time disaster prediction
+
+Automated alert generation
+
+High-frequency hourly forecasting
+
+Multi-variable hazard fusion
+
+
+It adds a strong risk management and urgent-response capability to the AetherVision Omega system, showcasing strong AI and Smart City domain knowledge.
+
+
+---
+
+Status
+
+Branch 7 is complete and fully functional.
