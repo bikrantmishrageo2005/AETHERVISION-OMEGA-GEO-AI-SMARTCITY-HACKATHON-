@@ -1,0 +1,103 @@
+AetherVision Omega - Branch 4 Hazard Report
+==========================================
+
+City: Delhi
+Risk Score: 0.5
+Risk Level: Moderate
+Air Pollution: 252
+Water Pollution: 58
+Industrial Impact: 51
+Heat Stress: 6.7
+Traffic Load: 85
+Waste Pressure: 58
+
+City: Mumbai
+Risk Score: 0.71
+Risk Level: High
+Air Pollution: 329
+Water Pollution: 62
+Industrial Impact: 82
+Heat Stress: 6.7
+Traffic Load: 78
+Waste Pressure: 37
+
+City: Kolkata
+Risk Score: 0.27
+Risk Level: Low
+Air Pollution: 242
+Water Pollution: 50
+Industrial Impact: 31
+Heat Stress: 3.0
+Traffic Load: 89
+Waste Pressure: 23
+
+City: Chennai
+Risk Score: 0.3
+Risk Level: Low
+Air Pollution: 164
+Water Pollution: 50
+Industrial Impact: 53
+Heat Stress: 3.1
+Traffic Load: 86
+Waste Pressure: 79
+
+City: Hyderabad
+Risk Score: 0.56
+Risk Level: High
+Air Pollution: 256
+Water Pollution: 63
+Industrial Impact: 73
+Heat Stress: 6.1
+Traffic Load: 91
+Waste Pressure: 33
+
+City: Bengaluru
+Risk Score: 0.45
+Risk Level: Moderate
+Air Pollution: 221
+Water Pollution: 92
+Industrial Impact: 59
+Heat Stress: 5.4
+Traffic Load: 37
+Waste Pressure: 28
+
+City: Ahmedabad
+Risk Score: 0.71
+Risk Level: High
+Air Pollution: 338
+Water Pollution: 75
+Industrial Impact: 67
+Heat Stress: 3.3
+Traffic Load: 71
+Waste Pressure: 72
+
+City: Pune
+Risk Score: 0.35
+Risk Level: Low
+Air Pollution: 170
+Water Pollution: 79
+Industrial Impact: 31
+Heat Stress: 8.8
+Traffic Load: 85
+Waste Pressure: 21
+
+City: Jaipur
+Risk Score: 0.57
+Risk Level: High
+Air Pollution: 252
+Water Pollution: 63
+Industrial Impact: 89
+Heat Stress: 4.4
+Traffic Load: 41
+Waste Pressure: 79
+
+City: Lucknow
+Risk Score: 0.36
+Risk Level: Moderate
+Air Pollution: 271
+Water Pollution: 42
+Industrial Impact: 50
+Heat Stress: 3.5
+Traffic Load: 55
+Waste Pressure: 63
+
