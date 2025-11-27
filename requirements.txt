@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+folium
+scikit-learn
+matplotlib
+geopandas
+shapely
+requests
+branca
+plotly
+xyzservices
+jinja2
+pydeck
