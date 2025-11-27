@@ -282,7 +282,8 @@ and recommends solutions — all automatically.”
 
 
 
-This alone can place your project in Top 1% of all submissions.
+
+
 
 
 ---
